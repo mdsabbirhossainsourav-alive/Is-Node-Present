@@ -1,4 +1,4 @@
-## https://www.codingninjas.com/studio/problems/code-find-a-node_5682
+## Problem link: https://www.codingninjas.com/studio/problems/code-find-a-node_5682
 
 ### Problem statement
 For a given Binary Tree of type integer and a number X, find whether a node exists in the tree with data X or not.
